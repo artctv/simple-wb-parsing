@@ -23,6 +23,7 @@ dist/
 
 ## local dev stuff
 local/
+sqlite.db
 
 # IDE/Code specific
 .idea
