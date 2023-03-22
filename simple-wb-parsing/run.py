@@ -5,7 +5,7 @@ from sqlalchemy.ext.asyncio import async_sessionmaker, AsyncSession
 
 
 # вставьте сюда свой артикул товара
-VENDOR_CODE: int = 0
+VENDOR_CODE: int = 71906089
 
 
 async def main(vendor_code):
